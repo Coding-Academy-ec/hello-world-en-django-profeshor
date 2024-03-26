@@ -3,4 +3,6 @@ from .views import hello_world
 
 urlpatterns = [
     # define la ruta para la vista hello_world.
+    path ("app/", hello_world)
+    
 ]

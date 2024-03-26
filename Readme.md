@@ -6,6 +6,8 @@
 
 </div>
 
+## this is a example change.
+
 Este tutorial te guiará a través del proceso de construcción de una aplicación web simple que muestra el mensaje **¡Hola Mundo!** en tu navegador utilizando Django.
 
 ## Pasos para construir la aplicación "Hola Mundo"
